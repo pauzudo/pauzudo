@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauzudo
 - 👀 I’m interested in sexo
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate with elon musk
 <!---
 pauzudo/pauzudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
